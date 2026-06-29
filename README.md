@@ -42,3 +42,5 @@ Since this is a quick patch and open-source workaround, you can load it manually
 ## 📝 Disclaimer
 
 *This project is an independent open-source workaround and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with LinkedIn Corporation or Microsoft.*
+
+[output.webm](https://github.com/user-attachments/assets/b00a4203-e02d-4bc7-a042-46058c6fa00c)
