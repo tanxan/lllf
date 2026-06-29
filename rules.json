@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "transform": { "path": "/login/" }
+            }
+        },
+        "condition": {
+            "urlFilter": "||linkedin.com/login/in/*",
+            "resourceTypes": ["main_frame"]
+        }
+    }
+]

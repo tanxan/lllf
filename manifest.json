@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "LLLF",
+    "version": "1.0",
+    "description": "Fixes the infinite loading loop on LinkedIn guest login page.",
+    "permissions": ["declarativeNetRequest"],
+    "host_permissions": ["*://*.linkedin.com/*"],
+    "declarative_net_request": {
+        "rule_resources": [{
+            "id": "ruleset",
+            "enabled": true,
+            "path": "rules.json"
+        }]
+    }
+}
